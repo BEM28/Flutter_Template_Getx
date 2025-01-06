@@ -13,3 +13,7 @@ Ini adalah template dasar untuk aplikasi Flutter yang menggunakan GetX sebagai s
 - Template UI dan layout dasar yang bisa langsung dipakai.
 - Setup awal Android dan iOS, jadi tinggal jalanin aja!
 - Template ini cocok buat aplikasi dengan banyak fitur dan interaksi yang cepat.
+
+## Running
+
+./setup_flutter_project.sh my_new_project
